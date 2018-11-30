@@ -1,0 +1,41 @@
+<link rel="stylesheet" type="text/css" href="https://jsbin.com/voqulom/edit?html,css,output">
+ <style>
+
+    body {
+    position: absolute;
+    left: 20px;
+    top: 10px
+}
+    h1 {
+    
+    font-size:50px;
+    color:purple
+} 
+    body {
+    
+    background:#eaf0fc;
+} 
+    table {
+    
+    font-size:18px;
+      color:#012670
+    }
+      body {
+    
+    font-size:18px;
+    color:#012670
+      
+
+}
+    table, th, td {
+    border: 2px outset purple;
+}
+
+     ol {
+     
+    position:absolute;
+    left: 450px;
+    top: 450px;
+    font-size:20px;
+}
+  </style>
